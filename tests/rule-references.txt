@@ -3808,3 +3808,17 @@ https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/init
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4624
 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487
+https://any.run/report/6eea2773c1b4b5c6fb7c142933e220c96f9a4ec89055bf0cf54accdcde7df535/a407f006-ee45-420d-b576-f259094df091
+https://www.action1.com/documentation/
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#new-country
+https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/how-to-add-a-data-service-reference-wcf-data-services
+https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#azure-ad-threat-intelligence-sign-in
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enable-psremoting?view=powershell-7.2
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4649
+https://nvd.nist.gov/vuln/detail/CVE-2024-3400
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure
+https://www.tarasco.org/security/pwdump_7/
+https://web.archive.org/web/20200530031906/https://techtalk.pcmatic.com/2017/11/30/running-dll-files-malware-analysis/
